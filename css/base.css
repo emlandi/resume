@@ -1,0 +1,42 @@
+body {
+  font-family: 'Slabo 27px', serif;
+  background-color: #E3F0EC;
+  color: #7D8C8C;
+  font-size: 1em;
+  padding: 1em;
+  line-height: 1.25em;
+}
+
+header {
+  line-height: 1em;
+  border: thick solid;
+  padding-bottom: 1em;
+  margin: 1em;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  color: #D27C4F;
+  font-size: 1.75em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Abril Fatface', cursive;
+  color: #D27C4F;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+a,
+a:link {
+  color: #DEAF25;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #EBDD3A;
+}
